@@ -1,0 +1,6 @@
+llama-index
+openai
+langchain
+langchain_community
+sentence_transformers
+qdrant-client
